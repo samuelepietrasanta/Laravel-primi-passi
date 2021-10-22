@@ -7,7 +7,31 @@
     <title>CONTATTI</title>
 </head>
 <body>
-    <h3>Questi sono i contatti della pagina</h3>
+
+    <div>
+
+        <h1>Contatti</h1>
+        <h5><a href="#">Instagram</a> </h5>
+        <h5><a href="#">Facebook</a></h5>
+        <h5><a href="#">Discord</a></h5>
+        
+    </div>
     
 </body>
+
+<style>
+
+    div{
+        text-align:center;
+    }
+     h1{
+        color:red;
+        font-size:2.5rem;
+        margin-bottom:20px;
+    }
+    a{
+        color:black;
+        text-decoration:none;
+    }
+</style>
 </html>
